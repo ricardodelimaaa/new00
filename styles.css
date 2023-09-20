@@ -1,0 +1,23 @@
+.post {
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 50px;
+    background-color: white;
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    }
+    .post-title{
+        padding: 10px;
+        display: flex;
+        justify-content: center;
+        align-items: center;   
+    }
+    .post-description{
+        padding: 10px;
+    }
+    .date {
+        justify-content: end;
+        align-items: end;
+        display:flex;
+    }
